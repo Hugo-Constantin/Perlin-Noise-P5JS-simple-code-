@@ -70,4 +70,4 @@ function draw() {
 }
 function mouseClicked() {
     saveCanvas('generatif', 'png')
-  } ```
+  } 
