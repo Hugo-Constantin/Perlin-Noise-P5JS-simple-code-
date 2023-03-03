@@ -4,7 +4,8 @@ it's just a simple code to creat perlin noise in P5JS
 
 https://editor.p5js.org/hugo.constantin/full/z_Ol-9nAp
 
-var points = [];
+
+```var points = [];
 var mult = 0.05;
 
 var r1
@@ -69,4 +70,4 @@ function draw() {
 }
 function mouseClicked() {
     saveCanvas('generatif', 'png')
-  }
+  } ```
